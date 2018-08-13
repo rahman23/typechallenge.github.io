@@ -44,6 +44,7 @@ i{
     background-size: cover;
     border-bottom:1px solid #56a79a;   
     background-attachment: fixed;
+    min-height: 800px;
 }
 
 #showcase .row{
