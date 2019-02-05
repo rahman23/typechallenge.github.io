@@ -1,7 +1,7 @@
 window.addEventListener('load',init);
 
-let time = 5;
-let score= 0;
+let time=5;
+let score=0;
 let isPlaying;
 
 const message=document.querySelector('#message');
